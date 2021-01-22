@@ -1,8 +1,25 @@
 {
   "version": 2,
-  "dgSpecHash": "updJtkdEGrdQ+C+0Svn2BSGgzS1cuhKC8+FQkDZnRqQgczf5AH9AXoSvM5tdd50ot0h18m1IdBTj8ruXt6DLZg==",
+  "dgSpecHash": "6fAkoQ5eLYVDDqb6NevlKslom8JFfTWRuJQrYkSnnt4q4hyP12gkJ50XiPsI0bYHTtSCEcu09keozSSQH1Lp4w==",
   "success": true,
   "projectFilePath": "C:\\wamp64\\www\\asp_net_razor\\asp_razor\\scott_razor_aspnet_project\\scott_razor_aspnet_project\\scott_razor_aspnet_project.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sparker\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.11\\microsoft.aspnetcore.mvc.razor.extensions.3.1.11.nupkg.sha512",
+    "C:\\Users\\sparker\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\3.1.11\\microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.11.nupkg.sha512",
+    "C:\\Users\\sparker\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\3.1.11\\microsoft.aspnetcore.razor.language.3.1.11.nupkg.sha512",
+    "C:\\Users\\sparker\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\2.9.3\\microsoft.codeanalysis.analyzers.2.9.3.nupkg.sha512",
+    "C:\\Users\\sparker\\.nuget\\packages\\microsoft.codeanalysis.common\\3.3.0\\microsoft.codeanalysis.common.3.3.0.nupkg.sha512",
+    "C:\\Users\\sparker\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.3.0\\microsoft.codeanalysis.csharp.3.3.0.nupkg.sha512",
+    "C:\\Users\\sparker\\.nuget\\packages\\microsoft.codeanalysis.razor\\3.1.11\\microsoft.codeanalysis.razor.3.1.11.nupkg.sha512",
+    "C:\\Users\\sparker\\.nuget\\packages\\microsoft.extensions.dependencymodel\\3.1.6\\microsoft.extensions.dependencymodel.3.1.6.nupkg.sha512",
+    "C:\\Users\\sparker\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\sparker\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "C:\\Users\\sparker\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\sparker\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\sparker\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\sparker\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\sparker\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\sparker\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512"
+  ],
   "logs": []
 }
